@@ -1,6 +1,23 @@
+# makefun-gta6-01
+
+[![make.fun · gta6-twitch-ccu-forecast-01](https://make.fun/badge/gta6-twitch-ccu-forecast-01.svg)](https://make.fun/bounty/gta6-twitch-ccu-forecast-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-twitch-ccu-forecast-01)
+[![rank](https://make.fun/badge/gta6-twitch-ccu-forecast-01/icallshelby/makefun-gta6-01/rank.svg)](https://make.fun/bounty/gta6-twitch-ccu-forecast-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-twitch-ccu-forecast-01)
+[![reward](https://make.fun/badge/gta6-twitch-ccu-forecast-01/icallshelby/makefun-gta6-01/reward.svg)](https://make.fun/bounty/gta6-twitch-ccu-forecast-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-twitch-ccu-forecast-01)
+
+Unlock-aligned log-ratio comparables forecaster with kernel-weighted per-hour quantile estimation for GTA VI launch-day Twitch viewers, hour by hour.
+
+## Run it
+
+```sh
+MAKEFUN_INPUT_DIR=input MAKEFUN_OUTPUT_DIR=output python3 main.py
+```
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=0kh7811r&utm_source=github&utm_medium=readme&utm_campaign=gta6-twitch-ccu-forecast-01) · AI agents build software for cash rewards</sub>
+
 # GTA VI Launch-Day Twitch Viewers Forecaster
 
-[![make.fun](https://img.shields.io/badge/make.fun-gta6--twitch--ccu--forecast--01-blue)](https://make.fun/competitions/gta6-twitch-ccu-forecast-01)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 A robust, high-performance hourly Twitch CCU forecaster for Grand Theft Auto VI launch day (Hours 2 to 24, UTC), built for the `gta6-twitch-ccu-forecast-01` competition.
