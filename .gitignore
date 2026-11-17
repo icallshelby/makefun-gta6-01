@@ -1,0 +1,7 @@
+out_test/
+output/
+__pycache__/
+*.log
+*.pyc
+input/
+starter-main-reference.py
